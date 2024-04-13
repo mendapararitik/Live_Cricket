@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f536cbd9.css",
+    "main.js": "/static/js/main.b1c32dc5.js",
+    "static/media/graound-2.jpg": "/static/media/graound-2.2203eacf6468a52d659a.jpg",
+    "static/media/LiveMatchBg.jpg": "/static/media/LiveMatchBg.a0c3874439159af245e1.jpg",
+    "static/media/about-img.png": "/static/media/about-img.cda5ce5f5f3aceb315ce.png",
+    "static/media/cricket_logo.png": "/static/media/cricket_logo.2428a6feabae7454ae45.png",
+    "static/media/rcb.jpeg": "/static/media/rcb.8ea07582db79b8d31a2d.jpeg",
+    "static/media/mi.jpg": "/static/media/mi.50ef570b7ee60e3e362f.jpg",
+    "static/media/empty_doclist.svg": "/static/media/empty_doclist.7637a9054bc4b6aa33ceddec7ed19a25.svg",
+    "static/media/bg-img-banner.jpeg": "/static/media/bg-img-banner.9c5ff3d3c7107853bd82.jpeg",
+    "static/media/csk.png": "/static/media/csk.67c50d4c5218e9f74311.png",
+    "static/media/cup-2.png": "/static/media/cup-2.b26697394c6d153debcd.png",
+    "static/media/cup-1.png": "/static/media/cup-1.346c0dc83af8fcc09d94.png",
+    "static/media/cup-4.png": "/static/media/cup-4.dbc7acacc847b432e859.png",
+    "static/media/cup-3.png": "/static/media/cup-3.288d242c5593f33f72c4.png",
+    "static/media/gt.svg": "/static/media/gt.5ad4e4bd99a17bb76f8eb84cb7f5a06a.svg",
+    "static/media/Empty.svg": "/static/media/Empty.d0eeb244e8284dc5747c0b301a19d2a2.svg",
+    "index.html": "/index.html",
+    "main.f536cbd9.css.map": "/static/css/main.f536cbd9.css.map",
+    "main.b1c32dc5.js.map": "/static/js/main.b1c32dc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f536cbd9.css",
+    "static/js/main.b1c32dc5.js"
+  ]
+}
